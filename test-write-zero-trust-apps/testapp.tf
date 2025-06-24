@@ -1,3 +1,4 @@
+# Added comment here
 module "app-name-use-name-with-dash-for-whitespace" {
   source   = "./modules/app"
   app_name = "app name free formatting"
